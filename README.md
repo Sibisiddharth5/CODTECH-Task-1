@@ -95,5 +95,11 @@ wget https://github.com/codewithsadee/anon-ecommerce-website
 
  ### Launching an EC2 Instance:
 
+ ![Screenshot (73)](https://github.com/user-attachments/assets/f82b5556-a459-49ff-8e5b-509ea5946a88)
+
+### Establishing SSH Connection to the EC2 Instance in AWS Console
+
+
+
  
 
