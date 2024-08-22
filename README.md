@@ -99,6 +99,17 @@ wget https://github.com/codewithsadee/anon-ecommerce-website
 
 ### Establishing SSH Connection to the EC2 Instance in AWS Console
 
+![Screenshot (75)](https://github.com/user-attachments/assets/e683af3f-3948-4d39-8d80-f678c6a61f18)
+
+![Screenshot (79)](https://github.com/user-attachments/assets/f777e3bd-039e-4e9c-a4ec-273e88aa6f2a)
+
+### Web application in the public IP:
+
+
+
+
+
+
 
 
  
