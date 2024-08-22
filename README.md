@@ -105,6 +105,8 @@ wget https://github.com/codewithsadee/anon-ecommerce-website
 
 ### Web application in the public IP:
 
+![Screenshot (78)](https://github.com/user-attachments/assets/51ebbfd4-bbee-4d77-acc3-b108d0262a82)
+
 
 
 
