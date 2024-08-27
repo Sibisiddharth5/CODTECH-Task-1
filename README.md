@@ -1,4 +1,4 @@
-# Building a Serverless Application with AWS Lambda
+# Deploying a Web Application on AWS
 
  - **NAME:** SIBISIDDHARTH G
  - **COMPANY:** CODTECH IT SOLUTIONS
